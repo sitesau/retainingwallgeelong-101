@@ -1,0 +1,22 @@
+{
+  "wheel_id": 428,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-101",
+  "project": "retaining-wall-geelong-materials-compared-c4c9af472fe281488ae55",
+  "parent_t1_ref": "retainingwallgeelong-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall geelong materials compared",
+  "intended_url": "http://retaining-wall-geelong-materials-compared-c4c9af472fe281488ae55.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "eb50a5aa27b521fd",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallgeelong-150/",
+      "anchor": "retaining wall geelong",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
